@@ -1,0 +1,11 @@
+There was generally no assumtions made in the program the only assumptions were made in the test to check the effect of paramters on validity and you can find info about these assumption in report pdf.
+
+Note i didn't include the pinatrace outpts because they are too large so you just have to
+produce them using the Horizontal cpp and vertical cpp
+
+
+
+
+
+to use the program type the following
+./simmod wt ./arrayvertical.out 1024 1024 32 64 128 256
